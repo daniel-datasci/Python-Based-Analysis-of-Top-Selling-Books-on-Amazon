@@ -82,6 +82,6 @@ American Psychiatric Association is an outlier having a maximum average price of
  
  # Blog Post
  
- You can also read my [blog post](https://medium.com/@chisompromise/amazon-best-selling-books-analysis-with-python-5b0dbccfa648) on this project
+ You can also read my [blog post](https://medium.com/@danifedibah/python-based-analysis-of-top-selling-books-on-amazon-c0fa595058aa) on this project
  
  
