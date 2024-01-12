@@ -1,4 +1,4 @@
-# Amazon Best Selling Books Analysis with Python
+# Python-Based Analysis of Top-Selling Books on Amazon
 
 I web-scrapped Amazing Best Selling Books in this project from 2009 to 2019.
 
@@ -77,14 +77,11 @@ American Psychiatric Association is an outlier having a maximum average price of
  
  # Dashboard Report
  
- At the end of this project, I build a [dashboard report](https://www.novypro.com/project/amazon-best-selling-books-analysis) showcasing the main insights derived from the analysis of these best selling books.
+ At the end of this project, I build a [dashboard report](https://app.powerbi.com/view?r=eyJrIjoiZTY5ZDY4MjctNmQ5Zi00NDYyLTlmZDItYmZmNmZjYWU1N2NjIiwidCI6IjFiOTFkY2I5LTdhMWUtNDdjYS04N2UwLWI0Mzg0ZjI5MTI5NCJ9&pageName=ReportSection4a428b32baa9ad947d02) showcasing the main insights derived from the analysis of these best selling books.
  
  
  # Blog Post
  
  You can also read my [blog post](https://medium.com/@chisompromise/amazon-best-selling-books-analysis-with-python-5b0dbccfa648) on this project
- 
- 
-With the collaboration of a colleague, we updated this dataset from 2009-2019 to 2009-2021 and hosted it on [Kaggle](https://www.kaggle.com/datasets/abdulhamidadavize/top-100-best-selling-books-on-amazon-20092021). You can also download this dataset and build your own interseting project with it!.
  
  
